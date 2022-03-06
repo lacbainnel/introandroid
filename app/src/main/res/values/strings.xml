@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">WelcomeAndroid</string>
-    <string name="my_msg">Welcome to Android</string>
+    <string name="app_name">Lab Exer 5.1</string>
+    <string name="my_msg">My name is Jannel C. Lacbain</string>
+    <string name="my_studies">
+        I am currently a junior studying BSCSSE at FEU Institute of Technology.
+        I love reading books, eating sweets, BTS, and watching insignificant amount of shows.
+        This is my first android application, a simple introductory message of myself.
+    </string>
 </resources>
